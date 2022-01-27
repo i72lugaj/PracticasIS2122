@@ -10,7 +10,7 @@
 
 ### Descripción
 
-Como *secretario* quiero modificar los *datos de una cita* 
+Como *secretario* quiero modificar los *datos de una cita* para que el *administrador* lo pueda consultar
 
 ### Validación
 
