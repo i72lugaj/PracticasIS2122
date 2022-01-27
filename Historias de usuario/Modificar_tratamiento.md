@@ -10,7 +10,7 @@
 
 ### Descripción
 
-Como *secretario* quiero modificar los *datos del tratamiento* 
+Como *secretario* quiero modificar los *datos del tratamiento* para que el *administrador* lo pueda consultar
 
 ### Validación
 
