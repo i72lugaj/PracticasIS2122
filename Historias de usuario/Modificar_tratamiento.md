@@ -6,7 +6,7 @@
 **Puntos estimados**: 5
 **Iteración**: 7
 
-**Responsable**: Secretario
+**Responsable**: i72lugaj
 
 ### Descripción
 
