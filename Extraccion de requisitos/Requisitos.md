@@ -2,7 +2,7 @@
 
 ### Partes Interesadas
  - Secretario
- - Programadores
+ - Desarrolladores
  - Médico
 
 ### Datos que gestiona el sistema
@@ -46,6 +46,8 @@
 
 
 ### Requisitos no funcionales
+ - Confirmacion de borrado
+ - El historial de un paciente no se borra
  - Sistema operativo linux
  - Interfaz CLI
  - Lenguaje de implementación C/C++
