@@ -10,7 +10,7 @@
 
 ### Descripción
 
-Como *secretario* quiero confirmar que los *datos del tratamiento* han sido archivados tras ser eliminados
+Como *secretario* quiero confirmar que los *datos del tratamiento* han sido archivados tras ser eliminados para que el *administrador* lo pueda consultar
 
 ### Validación
 
