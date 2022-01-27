@@ -6,7 +6,7 @@
 **Puntos estimados**: 5
 **Iteración**: 5
 
-**Responsable**: Administrador
+**Responsable**: i72lugaj
 
 ### Descripción
 
